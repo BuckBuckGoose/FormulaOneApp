@@ -39,7 +39,6 @@ namespace FormulaOneApp.Controllers
         //        Name = "Alfa Romeo",
         //        TeamPrincipal = "Frederic Vasseur"
         //    }
-
         //};
 
         [HttpGet]
